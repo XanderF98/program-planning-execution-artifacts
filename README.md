@@ -1,4 +1,4 @@
-# Program Planning & Execution Artifacts (⭐ Very High Signal)
+# Program Planning & Execution Artifacts 
 
 A concrete, TPM-grade set of planning and execution artifacts for a multi-team product launch.
 
@@ -33,3 +33,18 @@ This repository mirrors real-world program execution artifacts commonly evaluate
 ---
 
 ## Repository Structure
+---
+
+## Artifacts Included
+- ✅ Multi-team program plan
+- ✅ RACI matrix
+- ✅ Dependency map
+- ✅ Risk register (Excel + markdown)
+- ✅ Launch readiness checklist
+- ✅ Postmortem template
+
+---
+
+## How to use
+These artifacts are intentionally generic and de-identified.
+They can be adapted to real programs by replacing scope, milestones, and owners.
